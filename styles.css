@@ -1,0 +1,22 @@
+#app {
+    margin: 0 auto;
+    max-width: 700px;
+    
+}
+
+.contactForm {
+    margin: 0 auto;
+    display: block;
+    text-align: center;
+    
+}
+
+.contactsList {
+    display: inline;
+}
+
+.contactItem {
+    border: 2px solid black; 
+    text-align: center;
+
+}
